@@ -1,0 +1,20 @@
+﻿  ConsoleApplication2.cpp
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(582,41): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(852,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(853,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(859,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(860,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(866,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(867,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(873,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(874,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(880,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(881,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(933,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(934,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(1012,70): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(1012,70): warning C4244:         with
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(1012,70): warning C4244:         [
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(1012,70): warning C4244:             _Ty=int
+D:\Kods\Ekz C++\ConsoleApplication2\ConsoleApplication2.cpp(1012,70): warning C4244:         ]
+  ConsoleApplication2.vcxproj -> D:\Kods\Ekz C++\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
